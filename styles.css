@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+.holder{
+	border:1;
+}
+
+.item1{
+	color:green;
+}
+
+.item2{
+	color:orange;
+}
+.item3{
+	color:blue;
+}
